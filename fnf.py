@@ -75,7 +75,7 @@ def calculate_total(*args):
 def clear_all_fields():
     for var in [
         name_var, ref_id_var, doj_var, dol_var, service_var,
-        gross_var, basic_var, unpaid_var, exgratia_var, gratuity_var,
+        gross_var, basic_var, unpaid_var, exgratia_var, gratuity_var, 
         bonus_var, leave_var, others_var, advance_var, notice_var,
         table_leader_var, hr_var, total_var
     ]:
